@@ -149,6 +149,6 @@ all_passed = exp1 and exp2 and exp3 and exp4 and exp5 and exp6 and exp7
 
 
 if all_passed:
-	exit(0)
+    exit(0)
 else:
 	exit(1)
